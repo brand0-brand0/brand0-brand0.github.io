@@ -1,0 +1,14 @@
+body {
+    background-color: white; /* Sets the background color to white */
+    color: black; /* Sets the text color to black */
+    font-family: Helvetica, Arial, sans-serif; /* Uses Helvetica as the primary font, with Arial and sans-serif as fallbacks */
+    display: flex;
+    justify-content: center; /* Centers content horizontally */
+    align-items: center; /* Centers content vertically */
+    height: 100vh; /* Sets the height of the body to fill the viewport */
+    margin: 0; /* Removes the default margin */
+}
+
+h1 {
+    font-size: 2em; /* Sets the font size of the heading */
+}
